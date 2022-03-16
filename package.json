@@ -1,0 +1,19 @@
+{
+  "name": "hammingcodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorRyaboff/hammingCodeJS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgorRyaboff/hammingCodeJS/issues"
+  },
+  "homepage": "https://github.com/IgorRyaboff/hammingCodeJS#readme"
+}
